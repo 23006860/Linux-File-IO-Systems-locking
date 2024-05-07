@@ -1,4 +1,4 @@
-# Naame: Rahul V
+# Name: Rahul V
 # Ref no: 212223240133
 
 # Linux-File-IO-Systems-locking
